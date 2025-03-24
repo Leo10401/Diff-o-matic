@@ -30,7 +30,7 @@ export const compareFrames = async (frame1, frame2) => {
             return false;
         }
 
-        // Convert to raw RGB
+        // Convert to raw RGBh
         const img1Data = await sharp(frame1).resize(1280, 720).raw().toBuffer({ resolveWithObject: true });
         const img2Data = await sharp(frame2).resize(1280, 720).raw().toBuffer({ resolveWithObject: true });
 
