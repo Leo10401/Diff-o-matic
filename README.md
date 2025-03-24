@@ -21,7 +21,7 @@ Diff-o-matic is a powerful web-based tool that compares and highlights differenc
 If you want to run Diff-o-matic locally, follow these steps:
 
 ```sh
-git clone https://github.com/yourusername/diff-o-matic.git
+gh repo clone Leo10401/Diff-o-matic
 cd diff-o-matic
 npm install
 npm start
