@@ -9,7 +9,7 @@ Diff-o-matic is a powerful web-based tool that compares and highlights differenc
 - 🎵 **Audio Comparison**: Compares waveforms to find changes in sound.
 - 📽 **Video Comparison**: Detects differences in frames and timestamps.
 - ⚡ **Fast & Accurate**: Uses efficient algorithms to analyze files quickly.
-- ☁ **Cloud-Based**: No installation required, works directly in the browser.
+
 
 ## How It Works
 1. Upload two files of the same type (image, text, audio, or video).
