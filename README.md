@@ -1,4 +1,4 @@
-hi# Diff-o-matic
+# Diff-o-matic
 
 ## Overview
 Diff-o-matic is a powerful web-based tool that compares and highlights differences between various types of media, including **images, text, audio, and video**. It helps users quickly identify variations and changes in files with ease.
