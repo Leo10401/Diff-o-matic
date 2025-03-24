@@ -1,2 +1,2 @@
 "# Diff-O-Matic" 
-"# Diff-o-matic" 
+# Diff-o-matic
